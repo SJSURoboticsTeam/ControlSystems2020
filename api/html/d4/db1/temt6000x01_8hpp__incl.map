@@ -1,0 +1,19 @@
+<map id="/home/runner/work/urc&#45;control_systems&#45;2020/urc&#45;control_systems&#45;2020/library/L2_HAL/sensors/environment/light/temt6000x01.hpp" name="/home/runner/work/urc&#45;control_systems&#45;2020/urc&#45;control_systems&#45;2020/library/L2_HAL/sensors/environment/light/temt6000x01.hpp">
+<area shape="rect" id="node2" href="$d7/de7/light__sensor_8hpp.html" title="L2_HAL/sensors/environment\l/light_sensor.hpp" alt="" coords="195,213,405,255"/>
+<area shape="rect" id="node16" href="$d5/d90/adc_8hpp.html" title="L1_Peripheral/adc.hpp" alt="" coords="5,221,171,247"/>
+<area shape="rect" id="node19" href="$d4/d3d/log_8hpp.html" title="utility/log.hpp" alt="" coords="1188,139,1300,165"/>
+<area shape="rect" id="node3" href="$de/def/module_8hpp.html" title="module.hpp" alt="" coords="277,310,376,337"/>
+<area shape="rect" id="node5" href="$da/d85/error__handling_8hpp.html" title="utility/error_handling.hpp" alt="" coords="451,310,637,337"/>
+<area shape="rect" id="node12" href="$de/d06/units_8hpp.html" title="utility/units.hpp" alt="" coords="435,481,559,508"/>
+<area shape="rect" id="node8" href="$d8/dfd/config_8hpp.html" title="config.hpp" alt="" coords="985,399,1074,426"/>
+<area shape="rect" id="node10" href="$da/dd9/project__config_8hpp.html" title="project_config.hpp" alt="" coords="959,481,1100,508"/>
+<area shape="rect" id="node11" href="$db/db4/log__levels_8hpp.html" title="log_levels.hpp" alt="" coords="1902,481,2018,508"/>
+<area shape="rect" id="node17" href="$db/d5e/inactive_8hpp.html" title="inactive.hpp" alt="" coords="99,310,202,337"/>
+<area shape="rect" id="node26" href="$de/d94/ansi__terminal__codes_8hpp.html" title="utility/ansi_terminal\l_codes.hpp" alt="" coords="953,303,1106,344"/>
+<area shape="rect" id="node27" href="$d4/dce/constexpr_8hpp.html" title="utility/constexpr.hpp" alt="" coords="1548,221,1703,247"/>
+<area shape="rect" id="node29" href="$da/d7b/debug_8hpp.html" title="utility/debug.hpp" alt="" coords="1178,221,1310,247"/>
+<area shape="rect" id="node36" href="$db/dbe/macros_8hpp.html" title="utility/macros.hpp" alt="" coords="1682,310,1822,337"/>
+<area shape="rect" id="node37" href="$de/d99/time_8hpp.html" title="utility/time.hpp" alt="" coords="1989,221,2112,247"/>
+<area shape="rect" id="node32" href="$d1/ddf/newlib_8hpp.html" title="newlib/newlib.hpp" alt="" coords="1429,310,1569,337"/>
+<area shape="rect" id="node35" href="$dd/d98/build__info_8hpp.html" title="utility/build_info.hpp" alt="" coords="2039,310,2195,337"/>
+</map>

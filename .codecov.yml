@@ -1,0 +1,23 @@
+codecov:
+  notify:
+    require_ci_to_pass: yes
+
+coverage:
+  range: 50..90
+  round: up
+  precision: 1
+
+parsers:
+  gcov:
+    branch_detection:
+      conditional: no
+      loop: no
+      method: no
+      macro: no
+
+  javascript:
+    enable_partials: false
+
+ignore:
+  - .*_test.cpp
+  - tools/.*
